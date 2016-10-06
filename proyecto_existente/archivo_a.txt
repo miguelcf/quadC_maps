@@ -6,5 +6,5 @@ hola a todo el mundo¡¡¡
 
 	cuarta linea:utilizando "gitkraken en windows"
  for(var i=0; i<10; i++) {
- echo 'bla';
+ echo 'blasito el pequeñito'
  }
