@@ -1,0 +1,27 @@
+https://www.adictosaltrabajo.com/tutoriales/github-first-steps-upload-project/
+
+#Entrar en la carpeta del proyecto
+	git init
+
+#añadir los ficheros a subir
+	
+	git add carpetaProyecto
+	git add*
+
+#revisar los ficheros que estan en cola para subir
+
+	git status
+
+#realizamos el push:
+	
+	1-añadimos un comentario descriptivo de la version
+		git commit -m 'En esta version he actualiza el foreach'
+	
+	2-git remote add origin git@github.com:my_company/my_project.git(opcional la parte 2)
+
+	3-subimos los archivos que hemos cambiado
+		git push -u origin master
+
+
+		
+
