@@ -1,0 +1,29 @@
+https://console.developers.google.com/apis/library?hl=es-419
+
+#video youtube:
+	https://www.youtube.com/watch?v=Q6SPlh3TIYQ
+
+#precios  y planes 
+	https://developers.google.com/maps/pricing-and-plans/?hl=es
+
+#clave
+	https://developers.google.com/maps/web-services/?hl=es
+
+#codigos-para-crear-mostrar-mapas-google-maps
+	https://norfipc.com/codigos/codigos-para-crear-mostrar-mapas-google-maps.php
+	https://norfipc.com/codigos/como-detectar-mostrar-localizacion-geografica-paginas-web.php
+
+
+#API GOOGLE Y COMO GENERAR CLAVES: https://console.developers.google.com/apis/credentials/consent?project=hypnotic-seat-145210&hl=es
+
+#KEY =  245000236604KKSDWG -  (GENERADA X GOOGLE ) -> AIzaSyChbqjgc90SKcO5amGkujcl7bAY7IeV7hA
+AIzaSyCcY1Q_tDSRQsssiU073whgeNtBQGkGAWQ
+
+#descripcion en español de los productos:
+https://developers.google.com/maps/get-started/
+
+#bibliotecas y descripcion(dibujo places, a cargar con js)
+https://developers.google.com/maps/documentation/javascript/libraries
+
+-marcadores:
+https://developers.google.com/maps/documentation/javascript/markers
